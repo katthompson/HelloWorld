@@ -2,7 +2,9 @@
 <resources>
 
     <string name="app_name">HelloWorld</string>
-    <string name="hello_world">Hello world!</string>
+    <string name="hello_world">Android Eclipse App2222</string>
     <string name="menu_settings">Settings</string>
-
+    <string name="edit_text">Add your text here</string>
+	<string name="button_send">Send</string>
+	
 </resources>
