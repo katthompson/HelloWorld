@@ -9,5 +9,10 @@
     <string name="menu_profile">Profile</string>
     <string name="edit_text">Add your text here</string>
 	<string name="button_send">SEND</string>
+	<string name="title_pin_summary">PIN Usage Summary</string>
+	<string name="phone_number">800&#8211;555&#8211;1234</string>
+	<string name="title_pin">PIN: </string>
+	<string name="pin_number">123456789</string>
+	<string name="recharge">Recharge</string>
 	
 </resources>

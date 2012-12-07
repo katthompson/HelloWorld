@@ -5,6 +5,7 @@
         android:orderInCategory="103"
         android:title="@string/menu_home"
         android:icon="@drawable/home"
+        
         />
     <item
         android:id="@+id/menu_contacts"
