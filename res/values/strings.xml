@@ -23,5 +23,6 @@
     <string name="accessories">Accessories</string>
     <string name="purchase">Purchase</string>
     <string name="help">PrePaid Help/Support</string>
+    <string name="usage_page">This is the page that contains the Usage Details</string>
 
 </resources>

@@ -82,6 +82,7 @@ public final class R {
         public static final int title_pin=0x7f04000a;
         public static final int title_pin_summary=0x7f040008;
         public static final int usage=0x7f04000d;
+        public static final int usage_page=0x7f040016;
     }
     public static final class style {
         /** 
