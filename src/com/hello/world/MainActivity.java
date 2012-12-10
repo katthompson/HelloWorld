@@ -1,16 +1,25 @@
 package com.hello.world;
 
-import android.os.Bundle;
 import android.app.Activity;
+
+import android.os.Bundle;
 import android.view.Menu;
+import android.widget.ProgressBar;
 
 public class MainActivity extends Activity {
+	
+	
 
 	@Override
 	protected void onCreate(Bundle savedInstanceState) {
 		super.onCreate(savedInstanceState);
 		setContentView(R.layout.activity_main);
-	}
+		
+		ProgressBar minutesProgressBar = (ProgressBar) findViewById(R.id.progressBar);
+	    minutesProgressBar.setProgress(70);
+	    
+	   
+	 }
 
 	@Override
 	public boolean onCreateOptionsMenu(Menu menu) {
@@ -20,3 +29,4 @@ public class MainActivity extends Activity {
 	}
 
 }
+

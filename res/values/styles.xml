@@ -15,11 +15,29 @@
     <!-- Application theme. -->
     <style name="AppTheme" parent="AppBaseTheme">
         <!-- All customizations that are NOT specific to a particular API-level can go here. -->
-		<item name="android:itemTextAppearance">@style/customMenuTextColor</item>
+        
+        
     </style>
     
-    <style name="customMenuTextColor" parent="@android:style/TextAppearance.Widget.IconMenu.Item">
-        <item name="android:textColor">#efefef</item>
-    </style>
+    <style name="button_style">
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">40dip</item>
+        <item name="android:textColor">#fff</item>
+        <item name="android:gravity">center</item>
+        <item name="android:layout_marginLeft">25dip</item>
+        <item name="android:layout_marginRight">25dip</item>
+        <item name="android:layout_marginTop">10dip</item>
+        <item name="android:textSize">15sp</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:typeface">monospace</item>
+        <item name="android:shadowColor">#000</item>
+        <item name="android:shadowDx">1</item>
+        <item name="android:shadowDy">1</item>
+        <item name="android:shadowRadius">2</item>
+	       
+	</style>
+   
+    
+        
 
 </resources>

@@ -8,11 +8,17 @@
     <string name="menu_calling">Calling</string>
     <string name="menu_profile">Profile</string>
     <string name="edit_text">Add your text here</string>
-	<string name="button_send">SEND</string>
-	<string name="title_pin_summary">PIN Usage Summary</string>
-	<string name="phone_number">800&#8211;555&#8211;1234</string>
-	<string name="title_pin">PIN: </string>
-	<string name="pin_number">123456789</string>
-	<string name="recharge">Recharge</string>
-	
+    <string name="button_send">SEND</string>
+    <string name="title_pin_summary">PIN Usage Summary</string>
+    <string name="phone_number">800&#8211;555&#8211;1234</string>
+    <string name="title_pin">PIN: </string>
+    <string name="pin_number">123456789</string>
+    <string name="recharge">Recharge</string>
+    <string name="usage">Usage Details</string>
+    <string name="title_minutes">Minutes</string>
+    <string name="minutes_used">350/600</string>
+    <string name="item_arrow">></string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_custom_adapter">CustomAdapter</string>
+
 </resources>
