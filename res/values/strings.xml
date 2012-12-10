@@ -20,5 +20,8 @@
     <string name="item_arrow">></string>
     <string name="menu_settings">Settings</string>
     <string name="title_activity_custom_adapter">CustomAdapter</string>
+    <string name="accessories">Accessories</string>
+    <string name="purchase">Purchase</string>
+    <string name="help">PrePaid Help/Support</string>
 
 </resources>

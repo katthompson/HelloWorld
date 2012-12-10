@@ -102,14 +102,30 @@
 		 android:layout_marginTop="10dip"
 		 />
     
-     <ListView
-         android:id="@+id/mainListView"
-         android:layout_width="match_parent"
-         android:layout_height="wrap_content"
-         android:layout_marginTop="70dip"
-         >
-         
-     </ListView>
-     
+     <TextView
+         android:id="@+id/accessories"
+		 android:text="@string/accessories"
+		 android:drawableRight="@drawable/nextarrow"
+		 android:clickable="true"
+		 style="@style/list_style"
+		 android:layout_marginTop="60dp"
+		 android:background="@drawable/list_border"
+         />
+    
+     <TextView
+         android:id="@+id/purchase"
+		 android:text="@string/purchase"
+		 android:drawableRight="@drawable/nextarrow"
+		 android:clickable="true"
+		 style="@style/list_style"
+		 android:background="@drawable/list_border"
+         />
+     <TextView
+         android:id="@+id/help"
+		 android:text="@string/help"
+		 android:drawableRight="@drawable/nextarrow"
+		 android:clickable="true"
+		 style="@style/list_style"
+         />
 
 </LinearLayout>
