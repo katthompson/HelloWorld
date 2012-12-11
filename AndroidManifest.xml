@@ -19,12 +19,16 @@
             </intent-filter>
         </activity>
         <activity
-            android:label="@string/app_name"
-            android:name="com.hello.world.HelloActivity">
+            android:name="com.hello.world.HelloActivity"
+            android:label="@string/app_name" >
         </activity>
         <activity
             android:name="com.hello.world.CustomAdapter"
             android:label="@string/title_activity_custom_adapter" >
+        </activity>
+        <activity
+            android:name="com.hello.world.ContactsActivity"
+            android:label="@string/title_activity_contacts" >
         </activity>
     </application>
 

@@ -14,7 +14,7 @@
     <string name="title_pin">PIN: </string>
     <string name="pin_number">123456789</string>
     <string name="recharge">Recharge</string>
-    <string name="usage">Usage Details</string>
+    <string name="usage">List Activity Demo</string>
     <string name="title_minutes">Minutes</string>
     <string name="minutes_used">350/600</string>
     <string name="item_arrow">></string>
@@ -24,5 +24,7 @@
     <string name="purchase">Purchase</string>
     <string name="help">PrePaid Help/Support</string>
     <string name="usage_page">This is the page that contains the Usage Details</string>
+    <string name="list_activity_demo">List Activity Demo</string>
+    <string name="title_activity_contacts">ContactsActivity</string>
 
 </resources>
