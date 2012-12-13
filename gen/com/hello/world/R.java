@@ -25,39 +25,40 @@ public final class R {
         public static final int phone=0x7f02000b;
     }
     public static final class id {
-        public static final int accessories=0x7f07000a;
-        public static final int avatar=0x7f07000d;
-        public static final int email=0x7f07000f;
-        public static final int header_title=0x7f070001;
-        public static final int help=0x7f07000c;
-        public static final int icon=0x7f070013;
-        public static final int item=0x7f070011;
-        public static final int item_arrow=0x7f070012;
-        public static final int label=0x7f070014;
-        public static final int lv_item=0x7f070010;
-        public static final int menu_calling=0x7f070018;
-        public static final int menu_contacts=0x7f070017;
-        public static final int menu_home=0x7f070016;
-        public static final int menu_profile=0x7f070019;
-        public static final int menu_settings=0x7f070015;
-        public static final int minutes_used=0x7f070006;
-        public static final int phone_number=0x7f070002;
-        public static final int pin_number=0x7f070004;
-        public static final int progressBar=0x7f070007;
-        public static final int purchase=0x7f07000b;
-        public static final int recharge_button=0x7f070008;
-        public static final int textView1=0x7f070000;
-        public static final int title_minutes=0x7f070005;
-        public static final int title_pin=0x7f070003;
-        public static final int usage_button=0x7f070009;
-        public static final int username=0x7f07000e;
+        public static final int accessories=0x7f07000b;
+        public static final int avatar=0x7f07000e;
+        public static final int email=0x7f070010;
+        public static final int header_title=0x7f070002;
+        public static final int help=0x7f07000d;
+        public static final int icon=0x7f070014;
+        public static final int item=0x7f070012;
+        public static final int item_arrow=0x7f070013;
+        public static final int label=0x7f070015;
+        public static final int lv_item=0x7f070011;
+        public static final int mappage=0x7f070000;
+        public static final int menu_calling=0x7f070019;
+        public static final int menu_contacts=0x7f070018;
+        public static final int menu_home=0x7f070017;
+        public static final int menu_profile=0x7f07001a;
+        public static final int menu_settings=0x7f070016;
+        public static final int minutes_used=0x7f070007;
+        public static final int phone_number=0x7f070003;
+        public static final int pin_number=0x7f070005;
+        public static final int progressBar=0x7f070008;
+        public static final int purchase=0x7f07000c;
+        public static final int recharge_button=0x7f070009;
+        public static final int textView1=0x7f070001;
+        public static final int title_minutes=0x7f070006;
+        public static final int title_pin=0x7f070004;
+        public static final int usage_button=0x7f07000a;
+        public static final int username=0x7f07000f;
     }
     public static final class layout {
         public static final int activity_contacts=0x7f030000;
-        public static final int activity_hello=0x7f030001;
-        public static final int activity_home=0x7f030002;
-        public static final int activity_main=0x7f030003;
-        public static final int activity_map=0x7f030004;
+        public static final int activity_google_maps=0x7f030001;
+        public static final int activity_hello=0x7f030002;
+        public static final int activity_home=0x7f030003;
+        public static final int activity_main=0x7f030004;
         public static final int contacts_list=0x7f030005;
         public static final int header=0x7f030006;
         public static final int lv_item=0x7f030007;
@@ -69,7 +70,6 @@ public final class R {
         public static final int activity_hello=0x7f060002;
         public static final int activity_home=0x7f060003;
         public static final int activity_main=0x7f060004;
-        public static final int activity_map=0x7f060005;
     }
     public static final class string {
         public static final int accessories=0x7f040013;
@@ -92,6 +92,7 @@ public final class R {
         public static final int recharge=0x7f04000c;
         public static final int title_activity_contacts=0x7f040018;
         public static final int title_activity_custom_adapter=0x7f040012;
+        public static final int title_activity_google_maps=0x7f04001a;
         public static final int title_activity_map=0x7f040019;
         public static final int title_minutes=0x7f04000e;
         public static final int title_pin=0x7f04000a;

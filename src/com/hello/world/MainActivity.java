@@ -90,6 +90,9 @@ public class MainActivity extends Activity{
 		case R.id.menu_contacts:
 			startActivity(new Intent (this, ContactsActivity.class));
 			return true;
+		case R.id.menu_calling:
+			startActivity(new Intent (this, GoogleMapsActivity.class));
+			return true;
 			default:
 			return super.onOptionsItemSelected(item);
 		}
