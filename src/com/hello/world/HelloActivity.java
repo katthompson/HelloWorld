@@ -48,6 +48,9 @@ public class HelloActivity extends ListActivity {
 		case R.id.menu_home:
 			startActivity(new Intent (this, MainActivity.class));
 			return true;
+		case R.id.menu_contacts:
+			startActivity(new Intent (this, ContactsActivity.class));
+			return true;
 			default:
 			return super.onOptionsItemSelected(item);
 		}

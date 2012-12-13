@@ -26,5 +26,6 @@
     <string name="usage_page">This is the page that contains the Usage Details</string>
     <string name="list_activity_demo">List Activity Demo</string>
     <string name="title_activity_contacts">ContactsActivity</string>
+    <string name="title_activity_map">MapActivity</string>
 
 </resources>

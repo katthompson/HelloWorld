@@ -30,6 +30,14 @@
             android:name="com.hello.world.ContactsActivity"
             android:label="@string/title_activity_contacts" >
         </activity>
+        <activity
+            android:name="com.hello.world.MapActivity"
+            android:label="@string/title_activity_map" 
+            android:theme="@android:style/Theme.NoTitleBar">
+        </activity>
     </application>
 
+
+	<uses-sdk android:targetSdkVersion="10" />
+    <uses-permission android:name="android.permission.INTERNET"/>
 </manifest>
