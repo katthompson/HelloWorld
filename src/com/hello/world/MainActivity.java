@@ -15,7 +15,7 @@ import android.widget.Toast;
 
 
 public class MainActivity extends Activity{
-	//adding text to text submit to git
+	//adding text to text submit to git, again
 	Button btnUsage;
 
 	@Override
